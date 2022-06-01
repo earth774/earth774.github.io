@@ -57,8 +57,8 @@ class Footer extends HTMLElement {
         
         <section class="footer">
           <section class="contract">
-            <a href="#" class="contract_button github">Github</a>
-            <a href="#" class="contract_button twitter">Twitter</a>
+            <a href="https://github.com/earth774" target="_blank" class="contract_button github">Github</a>
+            <a href="https://twitter.com/SutthiponGEarth" target="_blank" class="contract_button twitter">Twitter</a>
           </section>
           <section class="copyright">
             <h4 class="H4_Bai_Jamjuree_22px">© Amiearth 2021</h4>
