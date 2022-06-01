@@ -40,7 +40,7 @@ class Header extends HTMLElement {
             }
         </style>
         <section class="header">
-            <img src="assets/images/profile-image.png" alt="image for profile" class="avatar">
+            <img src="assets/images/profile-image.png" alt="image for profile" class="avatar" width="119" height="119">
             <h3 class="H3_Bai_Jamjuree_25px name">Sutthipong Nuanam</h3>
             <h5 class="H5_Bai_Jamjuree_20px ig">@amiearth</h5>
             <p class="Paragraph_Bai_Jamjuree_16px detail">sutthiphongnuanma@gmail.com , 086-4280331</p>
