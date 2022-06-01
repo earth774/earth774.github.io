@@ -1,0 +1,82 @@
+:root {
+  --dark: #323232;
+  --gray: #9ca3ac;
+  --green: #4ed253;
+  --blue: #0173ff;
+  --light: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.H1_Bai_Jamjuree_32px {
+  font-size: 32px;
+}
+.H2_Bai_Jamjuree_28px {
+  font-size: 28px;
+}
+.H3_Bai_Jamjuree_25px {
+  font-size: 25px;
+}
+.H4_Bai_Jamjuree_22px {
+  font-size: 22px;
+}
+.H5_Bai_Jamjuree_20px {
+  font-size: 20px;
+}
+.H6_Bai_Jamjuree_18px {
+  font-size: 18px;
+}
+.Paragraph_Bai_Jamjuree_16px {
+  font-size: 16px;
+}
+.Hint_Bai_Jamjuree_14px {
+  font-size: 14px;
+}
+.SubHint_Bai_Jamjuree_12px {
+  font-size: 12px;
+}
+.SubHint_Bai_Jamjuree_10px {
+  font-size: 10px;
+}
+
+.H1_Bai_Jamjuree_32px_bold {
+  font-size: 32px;
+  font-weight: bold;
+}
+.H3_Bai_Jamjuree_25px_bold {
+  font-size: 25px;
+  font-weight: bold;
+}
+.H4_Bai_Jamjuree_22px_bold {
+  font-size: 22px;
+  font-weight: bold;
+}
+.Hint_Bai_Jamjuree_16px_bold {
+  font-size: 16px;
+  font-weight: bold;
+}
+.Hint_Bai_Jamjuree_14px_bold {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  padding: 10px;
+  margin-top: 1rem;
+}
+.card-description {
+  margin-left: 2.5rem;
+}
