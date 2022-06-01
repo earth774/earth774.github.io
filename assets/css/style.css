@@ -12,6 +12,16 @@
   box-sizing: border-box;
   font-family: "Bai Jamjuree", sans-serif;
 }
+@font-face {
+  font-family: "Bai Jamjuree";
+  src: url(../fonts/BaiJamjuree-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Bai Jamjuree";
+  src: url(../fonts/BaiJamjuree-Bold.ttf);
+  font-weight: bold;
+}
 
 .H1_Bai_Jamjuree_32px {
   font-size: 32px;
