@@ -29,7 +29,7 @@ class HistoryComponent extends HTMLElement {
             <section class="experience">
               <h3 class="H3_Bai_Jamjuree_25px_bold text-center">Experience</h3>
               <div class="card">
-                <img src="./assets/images/logos/mulberrysoft.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/mulberrysoft.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Full Time · Phayao Thailand</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">May 2018 - Present</p>
@@ -44,7 +44,7 @@ class HistoryComponent extends HTMLElement {
             <section class="education">
               <h3 class="H3_Bai_Jamjuree_25px_bold text-center">Education</h3>
               <div class="card">
-                <img src="./assets/images/logos/university_of_phayao.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/university_of_phayao.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">University Of Phayao</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">2013 - 2017</p>
@@ -57,7 +57,7 @@ class HistoryComponent extends HTMLElement {
             <section class="licenses_certifications">
               <h3 class="H3_Bai_Jamjuree_25px_bold text-center">Licenses & certifications</h3>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -67,7 +67,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -77,7 +77,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -97,7 +97,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -107,7 +107,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -117,7 +117,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -127,7 +127,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -137,7 +137,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -147,7 +147,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
@@ -157,7 +157,7 @@ class HistoryComponent extends HTMLElement {
                 </div>
               </div>
               <div class="card">
-                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55"/>
+                <img src="./assets/images/logos/skoodio.png" alt="logo" width="49" height="55" loading="lazy"/>
                 <div class="card-description">
                   <p class="Paragraph_Bai_Jamjuree_16px title">Skooldio</p>
                   <p class="Paragraph_Bai_Jamjuree_16px sub-title">Course Online</p>
