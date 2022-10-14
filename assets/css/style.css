@@ -14,13 +14,20 @@
 }
 @font-face {
   font-family: "Bai Jamjuree";
-  src: url(../fonts/BaiJamjuree-Regular.ttf);
+  src: url("BaiJamjuree-SemiBold.woff2") format("woff2"),
+    url("BaiJamjuree-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Bai Jamjuree";
-  src: url(../fonts/BaiJamjuree-Bold.ttf);
-  font-weight: bold;
+  src: url("BaiJamjuree-Regular.woff2") format("woff2"),
+    url("BaiJamjuree-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 .H1_Bai_Jamjuree_32px {

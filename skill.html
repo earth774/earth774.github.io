@@ -47,7 +47,6 @@
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 
     <title>Sutthipong Nuanma : ทักษะ</title>
-
     <script src="components/config.js" type="text/javascript"></script>
     <script type="text/javascript">
       for (const js of env.js) {
@@ -58,16 +57,17 @@
         document.head.appendChild(script);
       }
     </script>
-    <script
-      src="components/skill.component.js"
-      type="text/javascript"
-      defer
-    ></script>
   </head>
   <body>
     <header-component></header-component>
     <skill-component></skill-component>
     <footer-component></footer-component>
   </body>
-  <html></html>
+
+  <script
+    src="components/skill.component.js"
+    type="text/javascript"
+    async
+    defer
+  ></script>
 </html>
